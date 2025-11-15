@@ -1,0 +1,12 @@
+2-MINUTE VIDEO SCRIPT — TOTLE FRONTEND ROUND 1 (TopicSearch) - UPDATED
+
+Hello, I'm Namitha.
+I built TopicSearch using Vite + React and enhanced UX with Framer Motion animations.
+
+Key points:
+- Real-time, case-insensitive search
+- Staggered card entrance for better visual hierarchy
+- Hover + tap animations on cards
+- Modal opens with a spring scale animation
+
+Run: npm install && npm run dev
